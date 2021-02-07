@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/silver-chainsaw/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/silver-chainsaw/static/js/main.965f057e.chunk.js",
+    "main.js.map": "/silver-chainsaw/static/js/main.965f057e.chunk.js.map",
+    "runtime-main.js": "/silver-chainsaw/static/js/runtime-main.a8e93cee.js",
+    "runtime-main.js.map": "/silver-chainsaw/static/js/runtime-main.a8e93cee.js.map",
+    "static/js/2.2c7b0d24.chunk.js": "/silver-chainsaw/static/js/2.2c7b0d24.chunk.js",
+    "static/js/2.2c7b0d24.chunk.js.map": "/silver-chainsaw/static/js/2.2c7b0d24.chunk.js.map",
+    "static/js/3.6b2564dc.chunk.js": "/silver-chainsaw/static/js/3.6b2564dc.chunk.js",
+    "static/js/3.6b2564dc.chunk.js.map": "/silver-chainsaw/static/js/3.6b2564dc.chunk.js.map",
+    "index.html": "/silver-chainsaw/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/silver-chainsaw/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2c7b0d24.chunk.js.LICENSE.txt": "/silver-chainsaw/static/js/2.2c7b0d24.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/silver-chainsaw/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e93cee.js",
+    "static/js/2.2c7b0d24.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.965f057e.chunk.js"
+  ]
+}
